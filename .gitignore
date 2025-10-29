@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Large model files (will be downloaded by scripts)
+*.weights
+*.pt
+*.h5
+*.keras
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+output.mp4
+*.avi
+temp_*.mp4
+
+# Installation marker
+INSTALLED.txt
+
