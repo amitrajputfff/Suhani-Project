@@ -224,4 +224,3 @@ See original project license.
 
 🚗 Happy Detecting! 🛣️🚦🚶
 
-# Project
