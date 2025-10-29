@@ -9,6 +9,11 @@ Complete AI-powered video analysis for autonomous driving with 4 detection model
 ./install_macos.sh
 ```
 
+**If you get "permission denied", use:**
+```bash
+bash install_macos.sh
+```
+
 **Time:** 10-15 minutes | **Size:** ~2 GB
 
 ### Run the Apps:

@@ -8,6 +8,11 @@
 ./install_macos.sh
 ```
 
+**If you get "permission denied", use:**
+```bash
+bash install_macos.sh
+```
+
 That's it! The script will:
 - ✅ Install Homebrew (if needed)
 - ✅ Install Python 3.11
